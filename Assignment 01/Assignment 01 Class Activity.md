@@ -1,4 +1,4 @@
-# Oregon 
+# Oregon Heuristic Evaluation 
 ## Mariana Orozco-Berber, DH 110
 
 #### Assignment 01: Heuristic Evaluation of Oregon
