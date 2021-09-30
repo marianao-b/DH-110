@@ -49,4 +49,8 @@ Goals: The goal is to enhance the experience of those who seek to apply for medi
 |**Help users recognize, diagnose, and recover from errors:** Error messages are expressed in plain language.|**Good:** Option to retrieve or reset passwords and usernames is easily accessible.<br>**Bad:** If a user accidnelty navigates to the incorrect page there is no visible option to go back.|**Reccomendation:** As previously mentione, there should be a visible "go back" function once user navigates outside of the homepage.|3|
 |**Help and documentation:** Help with errors should be easily accessible.|**Good:** FAQ and Contact sections are accesible and visible on the homepage.<br>**Good:** Virtual assistant available<br>**Bad:** FAQ and Conatact section no longer accessible outside of the homepage.|**Reccomendation:** Make sure the FAQ, Conact section and virtual assitant are easliy accessible throughout the entire site.|3|
 
-
+## References
+* https://one.oregon.gov
+* https://unemployment.oregon.gov
+* https://www.bls.gov/web/empsit/cpsee_e16.htm
+* https://www.nngroup.com/articles/ten-usability-heuristics/
