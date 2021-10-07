@@ -40,3 +40,10 @@ This UT will be conducetd via Zoom in a private and quiet location. The particip
 ---
 
 ## Reflection
+
+Overall I feel the UT went well. I think the participant was very attentive and active in asking questions. I also feel I provided enough information and instruction for him to do each task the way it was intended for the test. I did, however, notice that I slurred my words quite a bit and my voice was very monotone which may have made any other participant uncomfortable or intimidated. I also had some trouble with interrupting the user as he spoke, and although this had to do with connectivity issues, it may have come off as rude and I need to work on being more patient if conducting a UT online this way.<br>
+
+I think the biggest thing I should work on is patience. I found it challenging to hold back as I saw the user overlook the information they were asked to find, and I caught myself intervening towards the end but this is something that could have tampered with the outcome of my study.<br>
+
+This test allowed me to test the waters, and in the future I would like to create more rapport with participants to ease the tension in the (virtual) room and allow them to feel more free to ask questions. Although this participant seemed to be comfortable with me I believe I can and should do a better job because not all of my participants will be as extroverted. 
+
