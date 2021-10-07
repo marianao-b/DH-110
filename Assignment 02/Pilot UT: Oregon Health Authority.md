@@ -35,6 +35,8 @@ This UT will be conducetd via Zoom in a private and quiet location. The particip
 
 [Pilot UT Footage: User experience of the Oregon Health Authority Website (click here)](https://drive.google.com/file/d/16ZakzOuJBCT4lSMcg8i5YHP9N-TC60E-/view?usp=sharing)
 
+###### *The participant was unable to show his face given that the test was run on a mobile device (iPhone5)*
+
 ---
 
 ## Reflection
