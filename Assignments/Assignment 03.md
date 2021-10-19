@@ -39,7 +39,7 @@ For this project I will collect qualitative research. I may record quantitative 
 ------------
 [Contextual Inquiry Script](https://docs.google.com/document/d/1mbHro_8C9C9BaV-bSMFaK9MKGs7mjiTnU4eRIWgeh2I/edit?usp=sharing)<br>
 [Session Recording]()<br>
-[Transcript/Observation]()<br>
+[Transcript/Observation Notes]()
 
 # Reflection
 -------------
