@@ -38,7 +38,7 @@ For this project I will collect qualitative research. I may record quantitative 
 # Digital/Audio Files
 ------------
 [Contextual Inquiry Script](https://docs.google.com/document/d/1mbHro_8C9C9BaV-bSMFaK9MKGs7mjiTnU4eRIWgeh2I/edit?usp=sharing)<br>
-[Session Recording]()<br>
+[Session Recording](https://drive.google.com/file/d/10qkM2Gc2yhlsYQ9DWUEvbhNqS_n6ujBO/view?usp=sharing)<br>
 [Transcript](https://docs.google.com/document/d/14zMZWejI5ir3TyRZJSAGStbyeVZ3jWZYc7ZETIIMT5s/edit?usp=sharing)
 
 # Reflection
