@@ -39,10 +39,15 @@ For this project I will collect qualitative research. I may record quantitative 
 ------------
 [Contextual Inquiry Script](https://docs.google.com/document/d/1mbHro_8C9C9BaV-bSMFaK9MKGs7mjiTnU4eRIWgeh2I/edit?usp=sharing)<br>
 [Session Recording]()<br>
-[Transcript/Observation Notes]()
+[Transcript](https://docs.google.com/document/d/14zMZWejI5ir3TyRZJSAGStbyeVZ3jWZYc7ZETIIMT5s/edit?usp=sharing)
 
 # Reflection
 -------------
+I feel this contextual inquiry was pretty rough. I think I could have done a better job providing the participant instructions for the activities to be able to passively observe. However, I do think the interview portion of the session went fairly well. I feel I was able to help the participant open up and answer questions honestly.
+
+Something I learned from my observation was that the participant (target user) rushed every search they made. They were not able to collect the information they would have needed to truly learn about mental health services or the Oregon Health Plan. I do not consider this to be a fault in the participants actions, but an observation of the way users navigate websites. This shows me that users are accustomed to quick information (which is why they moved so rapidly through the site). So it would be beneficial to make the detailed information more upfront to minimize the number of clicks it takes to get there. I also learned that the user responded to key words. For example, if they say the label “Oregon Health Plan '' they assumed the information they would need would be right there and bookmarked that information in their mind for whenever it would become necessary. 
+
+Although this didn't go as expected, I think I did pretty well as an interviewer. But in the future I would have to develop a more detailed script to guide participants through the activities accurately. 
 
 
 
