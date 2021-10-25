@@ -28,7 +28,7 @@ Some limitations of my plan follow that not 100% of the population who needs thi
 -----------
 The target users for this project are people over the age of 15. Most suicide deaths in 2019 occured amongst inidividuals between the ages of 15 and 45 ([reference](https://visual-data.dhsoha.state.or.us/t/OHA/views/Oregonannualtrendsinmortality/TrendsDash?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link&:isGuestRedirectFromVizportal=y&:embed=y)). Although most suicide deaths are male, I have chosen to maintain my target user’s gender unconstrained given that people who may benefit from behaviorl health services may be reffered by friends and family of various genders. The target users may be people who need behavioral health services, parents of children who are in need, and adults who are seeking services for their parents. 
 
-##Context
+## Context
  Users may complete the activity if they are the ones who are seeking help for themselves, their family, or a loved one. 
 
 # Methods
