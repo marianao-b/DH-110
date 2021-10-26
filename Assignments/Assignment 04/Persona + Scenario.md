@@ -1,5 +1,6 @@
 # The Purpose of UX Story Telling
 -----
+The purpose of UX story telling is to use empathy to idenitfy ciritical issues in the user expereince of any given app or website. By doing so, researchers and designers can understand how they can make their products better to serve their target audience and help them rather than stress them out as they navigate confusing websites. The purpse of UX story telling in my project is to understand how users navigate websites so that I cna understand the best way to organize th ewesbite so that necessary information is readily available. 
 
 # Two Design Feature Proposals 
 -----
