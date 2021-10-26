@@ -9,7 +9,7 @@
 # Personas & Empathy Map
 -------
 ## Persona 1
-
+![Mario Castro Personal](Maria Persona.png)
 
 
 
