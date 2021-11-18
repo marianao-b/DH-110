@@ -27,7 +27,7 @@ The aforementioned criteria was determined after reviewing statistics on suicide
 ### Wireflows
 [Accessing Crisis Services](https://drive.google.com/file/d/1b5KOgSqNoP7kF6m7Kh8GJAdF4BVYpkZf/view?usp=sharing)<br>
 [Accessing Counseling Services](https://drive.google.com/file/d/1liN3J5K9XYkpLfAhC-YuaxpgWFsrzRJx/view?usp=sharing)<br>
-[Accerssing ChatBot](https://drive.google.com/file/d/13b4-qJ1GRhV4UeTRkWtq3__A3zuP5-J5/view?usp=sharing)
+[Accessing ChatBot](https://drive.google.com/file/d/13b4-qJ1GRhV4UeTRkWtq3__A3zuP5-J5/view?usp=sharing)
 
 Note: Text in the chart denotes user actions
 
