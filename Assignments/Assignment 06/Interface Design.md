@@ -37,3 +37,5 @@ For the regular button however (first row, right) I decided to use a rounded squ
  <img width="460" height="500" src="GWContrast.png">
  <img width="460" height="500" src="BWContrast.png">
   </p>
+  
+These colors were amongst the only ones that looked good together and passes the color contrast test while taking from the more dominant and vibrant colors from the palette. Because these buttons are essential and are meant to grasp the users attention almost immediately.
