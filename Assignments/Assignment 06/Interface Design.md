@@ -13,13 +13,16 @@ The image below illustartes the new interface design using a wireflow I designed
 </p>
 
 ## Typography
-<p align="left">
-  <img width="600" height="600" src="Body.png">
-</p>
 <p align="center">
-  <img width="600" height="600" src="Heading.png">
-</p>
-<p align="right">
-  <img width="600" height="600" src="Captions.png">
+  <img width="278" height="500" src="Body.png">
+  <img width="278" height="500" src="Heading.png">
+  <img width="278" height="500" src="Captions.png">
 </p>
 I decided to use the font "Roboto" size 16 for the body text because it was the easiest to read and the most neutral font I liked. Given that I wanted to differentiate beteen body and heaidng with both size anf font style, I figured a more netral font would be easier for the user to read. I wanted to use "Quicksand" for all of the title fonts (Heaidng, and subhead) because I feel the think and minimalist font creates a clean aestehtic and makes the page look less overwhelmeing; it no longer look spacked with information, even though a lot of the same content is present. Although the design does not make use of captions and other deatisl often, i decided to add a tyepface for this--I used "Roboto" size 10. I found it approrpate to use the same font as the body text so as to keep some cohesiveness with the design while giving myself the opportunity to include desriptors for ambiguous sections names such as "crisis services"
+
+## Shape
+<p align="left">
+  <img width="800" height="90" src="Shape 1.png">
+  <img width="800" height="90" src="Shape 2.png">
+  <img width="100" height="73" src="Shape 3.png">
+</p>
