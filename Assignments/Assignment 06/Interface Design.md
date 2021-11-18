@@ -6,5 +6,5 @@ The purpose of this project is to make the Oregon Health Authority website, spec
 
 [Figma Interface Design](https://www.figma.com/file/7Z1M1BWsyReR32XkZcOrk5/Interface-Design?node-id=15%3A64)
 <p align="left">
-  <img width="330" height="500" src="Light/Dark Theme.png">
+  <img width="330" height="500" src="Light_Dark Theme.png">
 </p>
