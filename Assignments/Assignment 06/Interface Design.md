@@ -27,3 +27,13 @@ I decided to use the font "Roboto" size 16 for the body text because it was the 
   <img width="800" height="90" src="Shape 2.png">
 </p>
 For the regular button however (first row, right) I decided to use a rounded square shape given that this type of button will be used more often and the alignment of less round shapes looks cleaner in a the final design. The chat bubble is composed of a rounded square and an isoceles triangle, they were grouped and flattned to mimic the types of chat bubbles we see on our phones. This will index to the user that this is a place where they can chat with someone for help. I decided to use a more rounded version for the emergency "crisis button." This one is at the top of the page and I felt it best to keep this button round because it complemented the empty space above. The shapes above are tailored to fit a light background; for the dark theme they remain the same shape.
+
+## Color
+<p align="center">
+  <img width="469" height="52" src="Shape 1.png">
+  <img width="469" height="52" src="Shape 2.png">
+</p>
+<p align="center">
+ <img width="460" height="500" src="GWContrast.png">
+ <img width="460" height="500" src="BWContrast.png">
+  </p>
