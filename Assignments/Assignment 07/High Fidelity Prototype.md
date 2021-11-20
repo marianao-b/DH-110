@@ -12,7 +12,9 @@
 
 ## Wireflow and Design
 [Figma wireflow and design](https://www.figma.com/file/C00U1wNqkFykUGLQzX8caz/Interactive-Prototype?node-id=15%3A64)
-
+<p align="center">
+  <img width="640" height="740" src="design.png">
+</p>
 
 
 ## More Information
