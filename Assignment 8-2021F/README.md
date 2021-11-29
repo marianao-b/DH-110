@@ -1,5 +1,5 @@
 # Accessible Government Websites
-# Mariana Orozco-Berber<br>*B.A. Anthropology, Digital Humanities*
+###### Mariana Orozco-Berber<br> *B.A. Anthropology, Digital Humanities*
 
 ## Introduction: Optimizing the [Oregon Health Authority](https://www.oregon.gov/Oha/Pages/index.aspx) Website for Mental Health Services
 
@@ -29,12 +29,12 @@ Before beginning to understand the way users navigate any website, is the respon
 
 The severity of every principle the site did not satisfy was rated ona scale of 0 (not critical) to 3 (the presence of the issue impedes the user from using the site correctly). 
 
-> [Heuristic Evaluation documentation](https://github.com/marianao-b/DH-110/tree/main/Assignments/Assignment%2001)
+###### [Heuristic Evaluation documentation](https://github.com/marianao-b/DH-110/tree/main/Assignments/Assignment%2001)
 
 ### [Usability Testing](https://github.com/marianao-b/DH-110/blob/main/Assignments/Assignment%2002/%20Pilot%20UT:%20Oregon%20Health%20Authority.md)
 I did my original heuristic evaluation on the OregonEligibility site, but I am choosing to continue with my project by working with the Oregon Health Authority (OHA) website. The purpose of this usability testing is still very similar. I want to make sure that emergency mental health services and information on mental health services in general are easily accessible to those in need. According to the OHA, suicide is amongst the top 10 causes of death in Oregon, and I believe the state should make it easier for people to find and access information regarding mental health services for themlsves or a loved one. People should not be faced with frustration when seeking help.
 
-> [Usability Testing documentation](https://github.com/marianao-b/DH-110/tree/main/Assignments/Assignment%2002)
+###### [Usability Testing documentation](https://github.com/marianao-b/DH-110/tree/main/Assignments/Assignment%2002)
 
 
 ## [User research](https://github.com/marianao-b/DH-110/blob/main/Assignments/Assignment%2003/Contextual%20Inquiry.md)
@@ -45,7 +45,7 @@ For this contextual inquiry, I identified the target user to be anyone over the 
 2. **Love and Social Belonging**: Having access to a variety of mental health services, or merely being able to navigate getting help may contribute to a user's sense of social belonging. Perhaps getting the help they need (or may not know they need) will strengthen familial, and friendly relationships and facilitate both platonic and romantic intimacy. When users who suffer from any mental illness do such a thing, they may create a support system for themselves which allows them to navigate the complexities of their mental health without resorting to suicice
 3. **Esteem**: Further, I believe my proposed activity will tap into high-esteem for users. They may feel a greater responsibility to take care of themselves if the information is easily accessible and readily available. Perhaps receiving the care they need, or knowing they took a step in doing so, can help foster independence, confidence and strength
 
-> [Contextual Inquiry documentation](https://github.com/marianao-b/DH-110/tree/main/Assignments/Assignment%2003)
+###### [Contextual Inquiry documentation](https://github.com/marianao-b/DH-110/tree/main/Assignments/Assignment%2003)
 
 ## [UX storytelling](https://github.com/marianao-b/DH-110/blob/main/Assignments/Assignment%2004/Persona%20%2B%20Scenario.md)
 
@@ -53,7 +53,7 @@ The purpose of UX story telling is to use empathy to idenitfy ciritical issues i
 
 For this portion of my work, I developed two hypthetical characters who fit the target user description and basic demographiccs: Maria and Mateo. Both persona's were designed to test a feature I designed to make the website ore accessible. Each persona had a scenario and journey map to follow given the task they would hypothetically complete in order to test their respective features. 
 
-> [Storytelling documentation](https://github.com/marianao-b/DH-110/tree/main/Assignments/Assignment%2004)
+###### [Storytelling documentation](https://github.com/marianao-b/DH-110/tree/main/Assignments/Assignment%2004)
 
 
 ##  Wireframe and graphic design element variation
@@ -63,21 +63,21 @@ The purpose of this project is to make this website more user-friendly on mobile
 1. Finding crisis setvices
 2. Finding counseling services
 3. Using a ChatBot
-> ChatBot is a 24-hour assitant optimized to help the user search for information on the webpage using key words.m. 
+##### *ChatBot is a 24-hour assitant optimized to help the user search for information on the webpage using key words.* 
 
-> [Wireframes](https://drive.google.com/file/d/1h4WzZhBBkHInGeDxkgxh1HTAF9di1m0g/view)
+###### [Wireframes](https://drive.google.com/file/d/1h4WzZhBBkHInGeDxkgxh1HTAF9di1m0g/view)
 
-> [Low fidelity prototype documentation](https://github.com/marianao-b/DH-110/blob/main/Assignments/Assignment%2005/Low%20Fidelity%20Prototype.md)
+###### [Low fidelity prototype documentation](https://github.com/marianao-b/DH-110/blob/main/Assignments/Assignment%2005/Low%20Fidelity%20Prototype.md)
 
 ### [Interface Design Draft](https://www.figma.com/file/7Z1M1BWsyReR32XkZcOrk5/Interface-Design?node-id=15%3A64)
 The proposed design is optimized for mobile devices to make crisis and counseling services informartion available on portable platforms to imjprove accessibility away from larger, stationary devices like a personal computer. It was also madein both light and dark modes.
 
-> [Design sketches](https://www.figma.com/file/7Z1M1BWsyReR32XkZcOrk5/Interface-Design?node-id=15%3A64)
+###### [Design sketches](https://www.figma.com/file/7Z1M1BWsyReR32XkZcOrk5/Interface-Design?node-id=15%3A64)
 
 ## [Low-fidelity prototype](https://github.com/marianao-b/DH-110/blob/main/Assignments/Assignment%2006/Interface%20Design.md)
 My priority for the low-fidelity protoype was developing a default home screen and a dark mode home screen. The protype was designed o an iPhone 13 Pro frame using the [OHA](https://www.oregon.gov/Oha/Pages/index.aspx)homepgae as the starting point. In [this](https://www.figma.com/file/7Z1M1BWsyReR32XkZcOrk5/Interface-Design) version of the protype, the OHA homepage has mental health and crisis services as its focal point.
 
-> [Low-Fi prototype documentation and variation](https://github.com/marianao-b/DH-110/blob/main/Assignments/Assignment%2006/Interface%20Design.md)
+###### [Low-Fi prototype documentation and variation](https://github.com/marianao-b/DH-110/blob/main/Assignments/Assignment%2006/Interface%20Design.md)
 
 ## [High-fidelity prototype](https://github.com/marianao-b/DH-110/tree/main/Assignments/Assignment%2007)
 The protoype I developed allows users to find contact information regarding counseling services and contact a suicide hotline in case of an emergency. Other features that would be included if this project were to be continued include
@@ -85,18 +85,44 @@ The protoype I developed allows users to find contact information regarding coun
 * A ChatBot: An automated assistant to help users find resources they are unaware of by asking basic questions regarding their needs
 * Dark mode: All features available on an interface designed for an environemnt with dim lighting.
 
-> [Hi-Fi prototype documentation](https://github.com/marianao-b/DH-110/tree/main/Assignments/Assignment%2007)
+###### [Hi-Fi prototype documentation](https://github.com/marianao-b/DH-110/tree/main/Assignments/Assignment%2007)
 
 
 ## [Pitch video]()
 In the video linked below and in the subtitle above I will be providing a brief overvie wof my proejct and demonstrate the protype I created.
 
-> [Presentation and walkthrough]()
+###### [Presentation and walkthrough]()
 
 ## Reflection: Then, now & next steps
-Going through the UX research and design process taught me amultitude of both technical and soft skills.
 
-### Technical Skills
-I came into this course with no knoweldge about github, figma, and other tools we used in this course. I was also unfamiliar with "markdown." This course allowed me to expand my knowledge on the aformentioned softwares. 
+I came into this course with no knoweldge about Github, Figma, and other wireflow tools we used in this course. Throughout the durarion of this project, I leared 3 major user experience research and design skills:<br>
+1. Conducitng pilot usability testing sessions
+2. Creating and conducting contextual inquiry sessions
+3. Low and high fidelity prototyping
+
+After conducting my first usability testing session anad analyzing my data, I found great information regarding my target user but I also found that I could have been more warm and welcoming with my participant. Upon reflecting, I documented the following:
+> I found it challenging to hold back as I saw the user overlook the information they were asked to find... I caught myself intervening... [I] could have tampered with the outcome of my study.
+When I was conducting my contextual inquiry session, I used what I had learned from the pilot ut and was able to put the participant at ease. However, while conducting the contextua inquiry session, I feel I lacked the ability to provide clear instructions once I reviewed the data. From both of the sessions I conducted with a participant, I was able to observe my interpersonal skills and learned how to be patient and comforting while understanding the value of conciseness when providing instructions. Overall, I feel this project helped me improve my ability to speak to others when in a position of authoirty or something of the sort and urged me to think about conducting sessions from the perspective of the participant, similar to the way good UX designers modify designs from the perspective of the user.
+
+
+
 what you learned and what you’ve done differently and/or what you want to work more in the future
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
