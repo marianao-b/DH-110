@@ -91,7 +91,7 @@ The protoype I developed allows users to find contact information regarding coun
 ## [Pitch video](https://drive.google.com/drive/folders/1KJE93Yip4Xa7VJB_7IvC4KyXQ4kCgGgU?usp=sharing)
 In the video linked below and in the subtitle above I will be providing a brief overview of my proejct and demonstrate the protype I created.
 
-###### [Presentation and walkthrough]()
+###### [Presentation and walkthrough](https://drive.google.com/drive/folders/1KJE93Yip4Xa7VJB_7IvC4KyXQ4kCgGgU?usp=sharing)
 
 ## Reflection: Then, now & next steps
 
