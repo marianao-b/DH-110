@@ -88,8 +88,8 @@ The protoype I developed allows users to find contact information regarding coun
 ###### [Hi-Fi prototype documentation](https://github.com/marianao-b/DH-110/tree/main/Assignments/Assignment%2007)
 
 
-## [Pitch video]()
-In the video linked below and in the subtitle above I will be providing a brief overvie wof my proejct and demonstrate the protype I created.
+## [Pitch video](https://drive.google.com/drive/folders/1KJE93Yip4Xa7VJB_7IvC4KyXQ4kCgGgU?usp=sharing)
+In the video linked below and in the subtitle above I will be providing a brief overview of my proejct and demonstrate the protype I created.
 
 ###### [Presentation and walkthrough]()
 
